@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "489078508896",
+    "project_id": "spacex-firebase-as",
+    "storage_bucket": "spacex-firebase-as.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489078508896:android:5cb1eb4e0bbe982495a205",
+        "android_client_info": {
+          "package_name": "com.example.spacex_firebase_as"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq04VBJ1-EZ5NQyEODtOiTTFKuaLyXtZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
